@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965007794144",
+    "project_id": "map-mystery",
+    "storage_bucket": "map-mystery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965007794144:android:90b3baef6919b371be9585",
+        "android_client_info": {
+          "package_name": "com.mapmystery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965007794144-082kvm6np13di1upob855sdako8inon8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapmystery",
+            "certificate_hash": "729d891184492a4e5df8507d32b86c19dbec8c35"
+          }
+        },
+        {
+          "client_id": "965007794144-f32u9gn6lkdmlfgld2ko9dpfv497igjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapmystery",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "965007794144-nvl3kolc7fr2mhc66rmnv8rmm8t3v817.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB104T-sP6FsgSwMKWj-i9NMtLWAEsSqNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965007794144-nvl3kolc7fr2mhc66rmnv8rmm8t3v817.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
